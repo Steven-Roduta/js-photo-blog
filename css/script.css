@@ -1,0 +1,20 @@
+/* GENERAL */
+
+*{
+    box-sizing: border-box;
+}
+
+/* BODY */
+
+body{
+    font-family: "Edu TAS Beginner", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+/* HEADER */
+
+header{
+    
+}
